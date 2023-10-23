@@ -11,8 +11,11 @@ choco install nvm
 https://community.chocolatey.org/packages/nvm
 
 ---
-
-node --varison
+choco install gh
+gh pr status
+npm install commander
+dotnet --version
+node --verison
 
 nvm list
 
@@ -54,3 +57,20 @@ Material Icon Theme
 NuGet Gallery
 SQLite
 Angular Language Service
+
+---
+
+gh ext browse
+
+gh ext search
+
+---
+
+### **Angular:**
+
+**Commands:**
+
+> **Angular CLI help:**
+```
+ng help
+```
