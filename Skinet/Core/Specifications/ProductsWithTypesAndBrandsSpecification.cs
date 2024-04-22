@@ -1,4 +1,6 @@
-﻿using Core.Entities;
+﻿#region Usings
+using Core.Entities;
+#endregion
 
 namespace Core.Specifications
 {

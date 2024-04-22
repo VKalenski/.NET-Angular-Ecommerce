@@ -1,4 +1,6 @@
-﻿using System.Linq.Expressions;
+﻿#region Usings
+using System.Linq.Expressions;
+#endregion
 
 namespace Core.Specifications
 {

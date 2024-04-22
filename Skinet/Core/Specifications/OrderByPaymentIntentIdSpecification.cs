@@ -1,5 +1,7 @@
-﻿using System.Linq.Expressions;
+﻿#region Usings
+using System.Linq.Expressions;
 using Core.Entities.OrderAggregate;
+#endregion
 
 namespace Core.Specifications
 {
