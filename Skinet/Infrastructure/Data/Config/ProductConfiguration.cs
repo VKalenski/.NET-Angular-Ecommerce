@@ -1,6 +1,8 @@
-﻿using Core.Entities;
+﻿#region Usings
+using Core.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
+#endregion
 
 namespace Infrastructure.Data.Config
 {

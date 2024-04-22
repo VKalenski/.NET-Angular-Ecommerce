@@ -1,6 +1,8 @@
-﻿using Core.Interfaces;
+﻿#region Usings
+using Core.Interfaces;
 using StackExchange.Redis;
 using System.Text.Json;
+#endregion
 
 namespace Infrastructure.Services
 {

@@ -1,6 +1,8 @@
-﻿using Core.Entities.OrderAggregate;
+﻿#region Usings
+using Core.Entities.OrderAggregate;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
+#endregion
 
 namespace Infrastructure.Data.Config
 {

@@ -1,7 +1,9 @@
-﻿using Core.Entities;
+﻿#region Usings
+using Core.Entities;
 using Core.Entities.OrderAggregate;
 using Core.Interfaces;
 using Core.Specifications;
+#endregion
 
 namespace Infrastructure.Services
 {

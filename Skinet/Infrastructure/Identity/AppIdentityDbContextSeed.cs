@@ -1,5 +1,7 @@
-﻿using Core.Entities.Identity;
+﻿#region Usings
+using Core.Entities.Identity;
 using Microsoft.AspNetCore.Identity;
+#endregion
 
 namespace Infrastructure.Identity
 {

@@ -1,8 +1,10 @@
-﻿using System.Reflection;
+﻿#region Usings
+using System.Reflection;
 using System.Text.Json;
 using Core.Entities;
 using Core.Entities.OrderAggregate;
 using Infrastructue.Data;
+#endregion
 
 namespace Infrastructure.Data
 {

@@ -1,7 +1,9 @@
-﻿using Core.Entities;
+﻿#region Usings
+using Core.Entities;
 using Core.Entities.OrderAggregate;
 using Microsoft.EntityFrameworkCore;
 using System.Reflection;
+#endregion
 
 namespace Infrastructue.Data
 {

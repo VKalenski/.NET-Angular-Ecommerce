@@ -1,7 +1,9 @@
-﻿using System.Collections;
+﻿#region Usings
+using System.Collections;
 using Core.Entities;
 using Core.Interfaces;
 using Infrastructue.Data;
+#endregion
 
 namespace Infrastructure.Data
 {

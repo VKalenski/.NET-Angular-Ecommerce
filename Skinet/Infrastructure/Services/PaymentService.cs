@@ -1,10 +1,12 @@
-﻿using Core.Entities;
+﻿#region Usings
+using Core.Entities;
 using Core.Entities.OrderAggregate;
 using Core.Interfaces;
 using Core.Specifications;
 using Microsoft.Extensions.Configuration;
 using Stripe;
 using Product = Core.Entities.Product;
+#endregion
 
 namespace Infrastructure.Services
 {

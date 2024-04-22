@@ -1,7 +1,9 @@
-﻿using System.Text.Json;
+﻿#region Usings
+using System.Text.Json;
 using Core.Entities;
 using Core.Interfaces;
 using StackExchange.Redis;
+#endregion
 
 namespace Infrastructure.Data
 {

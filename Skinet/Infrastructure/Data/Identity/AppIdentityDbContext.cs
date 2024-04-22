@@ -1,6 +1,8 @@
-﻿using Core.Entities.Identity;
+﻿#region Usings
+using Core.Entities.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+#endregion
 
 namespace Infrastructure.Data.Identity
 {

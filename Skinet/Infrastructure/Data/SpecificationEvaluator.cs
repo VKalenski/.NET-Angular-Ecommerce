@@ -1,6 +1,8 @@
-﻿using Core.Entities;
+﻿#region Usings
+using Core.Entities;
 using Core.Specifications;
 using Microsoft.EntityFrameworkCore;
+#endregion
 
 namespace Infrastructure.Data
 {
