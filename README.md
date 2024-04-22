@@ -18,7 +18,7 @@ choco install gh
 gh pr status
 npm install commander
 dotnet --version
-node --verison
+node -v
 
 nvm list
 
