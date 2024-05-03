@@ -2,6 +2,18 @@
 
 Course Link: https://www.udemy.com/course/learn-to-build-an-e-commerce-app-with-net-core-and-angular/
 
+---
+
+cd Skinet
+dotnet restore
+dotnet build
+
+Core & Infrastructure are class libraries
+
+
+
+
+
 
 
 https://nodejs.org/en
