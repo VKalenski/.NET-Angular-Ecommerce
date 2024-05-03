@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "88li7fX8VjphR3t5kzafVyVgGkjCmBzEpzkL2DsZ03o9ohFngGJ1uBDjZMx9xQwqaMznlRBP5RG9LjUGYPVt+g==",
+  "dgSpecHash": "H7KLF4IDqHOVtMrUK7D0200JKwPxw3EuLescootpsfo3RYYH1a2sVfalySPDqk8F/lAsw4vvCmGj3OVuEUGBSQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\vilis\\OneDrive\\Documents\\Kalenski_GitHub\\.NET-Angular-Ecommerce\\Skinet\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\vilis\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\vilis\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\vilis\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.1.1\\microsoft.aspnetcore.authentication.2.1.1.nupkg.sha512",
     "C:\\Users\\vilis\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.1.1\\microsoft.aspnetcore.authentication.abstractions.2.1.1.nupkg.sha512",
     "C:\\Users\\vilis\\.nuget\\packages\\microsoft.aspnetcore.authentication.cookies\\2.1.1\\microsoft.aspnetcore.authentication.cookies.2.1.1.nupkg.sha512",
@@ -21,6 +23,7 @@
     "C:\\Users\\vilis\\.nuget\\packages\\microsoft.aspnetcore.identity\\2.1.39\\microsoft.aspnetcore.identity.2.1.39.nupkg.sha512",
     "C:\\Users\\vilis\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\7.0.11\\microsoft.aspnetcore.identity.entityframeworkcore.7.0.11.nupkg.sha512",
     "C:\\Users\\vilis\\.nuget\\packages\\microsoft.aspnetcore.webutilities\\2.1.1\\microsoft.aspnetcore.webutilities.2.1.1.nupkg.sha512",
+    "C:\\Users\\vilis\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\vilis\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.11\\microsoft.data.sqlite.core.7.0.11.nupkg.sha512",
     "C:\\Users\\vilis\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.11\\microsoft.entityframeworkcore.7.0.11.nupkg.sha512",
     "C:\\Users\\vilis\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.11\\microsoft.entityframeworkcore.abstractions.7.0.11.nupkg.sha512",

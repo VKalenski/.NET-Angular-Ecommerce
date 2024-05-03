@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "udHDs3iJXc5FFIokBmMFB+kgSzh9aFhgbRHWmpgbH8Gj02O9m8cge1J6Oo1oYdM1+1nEOb5sXmWyng4I4KrwoA==",
+  "dgSpecHash": "YMCAt97hyCHZogs05TC8nSCExQn5xHbC1Qj+4gjjnIMixN9qaL8BBTBIVZwCVmiU8ohyPzLWqW6QaCFrA3LlLQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\vilis\\OneDrive\\Documents\\Kalenski_GitHub\\.NET-Angular-Ecommerce\\Skinet\\API\\API.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\vilis\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
-    "C:\\Users\\vilis\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\vilis\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\vilis\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\vilis\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\vilis\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.1.1\\microsoft.aspnetcore.authentication.2.1.1.nupkg.sha512",
     "C:\\Users\\vilis\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.1.1\\microsoft.aspnetcore.authentication.abstractions.2.1.1.nupkg.sha512",
